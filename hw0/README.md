@@ -1,6 +1,6 @@
 # HW0
 
-####從助教的程式碼中，挑出一段功能修改後並寫上修改說明，放置Github
+### 從助教的程式碼中，挑出一段功能修改後並寫上修改說明，放置Github
 
 - Reference：https://github.com/MiccWan/Political-News-Analysis/tree/master/final_demo
 
