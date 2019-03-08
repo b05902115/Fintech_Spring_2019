@@ -14,7 +14,7 @@
 
 - **Result**
 
-  ![kobe_wordcloud](/Users/Ingram/Desktop/CSIE/3-2/CSX/hw0/kobe_wordcloud.png)
+  ![kobe_wordcloud](https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw0/kobe_wordcloud.png)
 
 - **Implementation**
 
@@ -28,7 +28,7 @@
 
   1. Choose a *Kobe Bryant's logo* image as a mask image **kobe.png**
 
-     ![kobe](/Users/Ingram/Desktop/CSIE/3-2/CSX/hw0/kobe.png)
+     ![kobe](https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw0/kobe.png)
 
   2. Randomly picked sentences about *Kobe Bryant* from wikipedia and write into **kobe.txt**
 
