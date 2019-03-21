@@ -14,13 +14,16 @@
 - 參考網站：[別人從Yahoo上抓取資料的代碼]
 
 （http://tn00343140a.pixnet.net/blog/post/166418964-python%E7%94%A8fix-yahoo-finance%E4%B8%8B%E8%BC%89yahoo%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99?fbclid=IwAR1Mb0X9iBjqaw7g3bJbuFc8w2YHHCr-x51Lc4i2EcaOT3m4XfekuBl9jEQ）
-
-
+  
+    
+    
 ### 2. 流程圖
 
 ![流程圖](https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw1/%20%E6%B5%81%E7%A8%8B%E5%9C%96.png)
 
-
+  
+    
+    
 
 ### 3. 5 種當別人使用你的程式最有可能會遇到的錯誤情況，並提供解決辦法
 
@@ -46,7 +49,9 @@
 ```diff
 + * *解決：注意python版本，如果超過3的話使用pip時要改為pip3，其餘則用pip*
 ```
-
+  
+    
+    
 
 ### 4. 補充
 
@@ -60,12 +65,12 @@
 
   * 結果csv檔："ETF.csv"
 
-    
+      
+        
+        
 
 ### 5. 執行結果
-```
-- this is red
-```
+
 
 
 
