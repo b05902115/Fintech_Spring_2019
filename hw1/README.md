@@ -5,10 +5,10 @@
 - 套件：fix-yahoo-finance
   * 首先從pypi上下載fix_yahoo_fincance
   * 在command line輸入pip3 install fix-yahoo-finance-0.0.21.tar.gz
-  * 在command lind輸入 pip3 install pandas_datareader
+  * 在command line輸入 pip3 install pandas_datareader
 
 - 原因：fix-yahoo-finance可以直接從Yahoo finance找到數據
-- 參考網站：[別人從Yahoo上抓取資料的代碼]
+- 參考網站：
 
 （http://tn00343140a.pixnet.net/blog/post/166418964-python%E7%94%A8fix-yahoo-finance%E4%B8%8B%E8%BC%89yahoo%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99?fbclid=IwAR1Mb0X9iBjqaw7g3bJbuFc8w2YHHCr-x51Lc4i2EcaOT3m4XfekuBl9jEQ）
   
