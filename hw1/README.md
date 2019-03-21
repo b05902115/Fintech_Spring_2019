@@ -26,7 +26,7 @@
 
 - 沒有事先安裝好需要的套件（pandas、fix-yahoo-finance）
 ```diff
-  * * + 解決：在command line使用pip3 install*
++ * *解決：在command line使用pip3 install*
 ```  
 - csv檔沒有放在正確路徑，或路徑名稱錯誤
 ```diff
