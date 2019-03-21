@@ -63,7 +63,7 @@
     
 
 ### 5. 執行結果
-```diff 
+```json
 - this is red
 ```
 
