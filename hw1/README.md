@@ -25,7 +25,7 @@
 ### 3. 5 種當別人使用你的程式最有可能會遇到的錯誤情況，並提供解決辦法
 
 - 沒有事先安裝好需要的套件（pandas、fix-yahoo-finance）
-'''diff
+```diff
   * *+ 解決：在command line使用pip3 install*
   
 - csv檔沒有放在正確路徑，或路徑名稱錯誤
