@@ -1,4 +1,4 @@
-# Hw1 第十四組 ETF爬蟲解說
+# HW1 第十四組 ETF爬蟲解說
 
 ### 1. 你選擇用甚麼樣的套件來做網路爬蟲？為什麼要用這個套件
 
@@ -16,7 +16,7 @@
     
 ### 2. 流程圖
 
-![流程圖](https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw1/%20%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+![流程圖](https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw1/%20%E6%B5%81%E7%A8%8B%E5%9C%96.png){width = 50%}
  
 
     
