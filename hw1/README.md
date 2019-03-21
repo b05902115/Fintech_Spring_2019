@@ -1,8 +1,9 @@
-# 金融科技  Homework1 第十四組
+# 金融科技  Hw1 第十四組
 
 ### ETF爬蟲解說
 
-**1. 你選擇用甚麼樣的套件來做網路爬蟲？為什麼要用這個套件**
+
+### 1. 你選擇用甚麼樣的套件來做網路爬蟲？為什麼要用這個套件**
 
 * 套件：fix-yahoo-finance
   * 首先從pypi上下載fix_yahoo_fincance
@@ -15,13 +16,13 @@
 （http://tn00343140a.pixnet.net/blog/post/166418964-python%E7%94%A8fix-yahoo-finance%E4%B8%8B%E8%BC%89yahoo%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99?fbclid=IwAR1Mb0X9iBjqaw7g3bJbuFc8w2YHHCr-x51Lc4i2EcaOT3m4XfekuBl9jEQ）
 
 
-**2. 流程圖**
+### **2. 流程圖**
 
 ![流程圖](https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw1/%20%E6%B5%81%E7%A8%8B%E5%9C%96.png)
 
 
 
-**3. 5 種當別人使用你的程式最有可能會遇到的錯誤情況，並提供解決辦法**
+### **3. 5 種當別人使用你的程式最有可能會遇到的錯誤情況，並提供解決辦法**
 
 * 沒有事先安裝好需要的套件（pandas、fix-yahoo-finance）
   * *解決：在command line使用pip3 install*
@@ -37,7 +38,7 @@
 
 
 
-**4. 補充**
+### **4. 補充**
 
 * 有試過從etfdb.com連接到homepage再找每日收盤價，但幾乎所有homepage都只能找到NAV而無法找到收盤價，且每個ETF的homepage格式皆不盡相通，使用統一的爬蟲程式來爬不同的homepage難度很高，故決定直接從yahoo上爬收盤價。
 
