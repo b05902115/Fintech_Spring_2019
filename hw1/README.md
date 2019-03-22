@@ -10,7 +10,7 @@
 - 原因：fix-yahoo-finance可以直接從Yahoo finance找到數據
 - 參考網站：
 
-（http://tn00343140a.pixnet.net/blog/post/166418964-python%E7%94%A8fix-yahoo-finance%E4%B8%8B%E8%BC%89yahoo%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99?fbclid=IwAR1Mb0X9iBjqaw7g3bJbuFc8w2YHHCr-x51Lc4i2EcaOT3m4XfekuBl9jEQ）
+http://tn00343140a.pixnet.net/blog/post/166418964-python%E7%94%A8fix-yahoo-finance%E4%B8%8B%E8%BC%89yahoo%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99?fbclid=IwAR1Mb0X9iBjqaw7g3bJbuFc8w2YHHCr-x51Lc4i2EcaOT3m4XfekuBl9jEQ
   
     
     
@@ -61,7 +61,7 @@
         
 
 ### 5. 執行結果
-!(ETF)[https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw1/ETF%E7%88%AC%E8%9F%B2%E5%9F%B7%E8%A1%8C%E7%B5%90%E6%9E%9C.png]
+![ETF](https://github.com/b05902115/Fintech_Spring_2019/blob/master/hw1/ETF%E7%88%AC%E8%9F%B2%E5%9F%B7%E8%A1%8C%E7%B5%90%E6%9E%9C.png)
 
 
 
